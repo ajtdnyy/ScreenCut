@@ -13,8 +13,6 @@
 
 开发工具：netbeans 7.0
 
-用法示例：
-
 截图时效果如下图
 
 ![image](http://www.vbox.top/wp-content/uploads/2017/07/screen1.jpg)
