@@ -1,5 +1,5 @@
-# PackagePlugin
-java 仿QQ截图小程序
+# java 仿QQ截图小程序
+
 
 ## <a href='http://www.vbox.top?from=github' target='_blank'>更多小工具请前往我的博客</a>
 
